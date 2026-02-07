@@ -1,0 +1,4 @@
+Sitemap: https://raphabonfim.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: raphabonfim.github.io
